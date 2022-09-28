@@ -1,0 +1,42 @@
+P {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 14pt; FONT-FAMILY: verdana
+}
+A:link {
+	COLOR: #1c3a75; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #1c3a75; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #1c3a75; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.a1:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.a1:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.a1:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.a1:hover {
+	FONT-SIZE: 9pt; COLOR: #f8a907; TEXT-DECORATION: none
+}
+A.a2:link {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.a2:active {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.a2:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.a2:hover {
+	FONT-SIZE: 9pt; COLOR: #ff0000; TEXT-DECORATION: none
+}

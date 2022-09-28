@@ -1,0 +1,75 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333333; PADDING-TOP: 0px;
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #333333;
+}
+A {
+	COLOR: #333333; TEXT-DECORATION:underline;
+}
+A:hover {
+	COLOR: #FF0000; TEXT-DECORATION: underline;
+}
+.red {color: #FF0000}
+.mtitle {
+	color: #666666;
+	font-weight: bold;
+	font-size:14px;
+}
+
+.bntStyle{
+	width:55px;
+	font-size:9pt;
+	height:19px;
+	cursor: hand;
+	background-image: url(seebutton3.gif);
+	background-position: center center;
+	border-top: 0px outset #eeeeee;
+	border-right: 0px outset #888888;
+	border-bottom: 0px outset #888888;
+	border-left: 0px outset #eeeeee;
+	padding-top: 4px;
+	background-repeat: repeat-x;
+}
+
+.page_num{
+	border:1px solid #666;
+	text-decoration:none;
+	padding:2px 4px 0px 4px;
+	margin-right:2px;
+	margin-top:-10px;
+}
+a:hover.page_num{
+	background-color:#eee;
+	border: 1px solid #111;
+	text-decoration: none;
+}
+.page_pages{
+	border:1px solid #111;
+	text-decoration:none;
+	padding:2px 4px 0px 4px;
+	margin-right:2px;
+	background-color:#eee;
+}
+.page_total{
+	border:1px solid #111;
+	text-decoration:none;
+	padding:2px 4px 0px 4px;
+	margin-right:2px;
+	background-color:#eee;
+}
+.page_curpage{
+	border:1px solid #111;
+	text-decoration:none;
+	padding:2px 4px 0px 4px;
+	margin-right:2px;
+	background-color:#eee;
+	font-weight:bold;
+}
+.page_input{
+	border:1px solid #666;
+	width:35px;
+}
+#page_bar{
+	font-size:12px;
+}

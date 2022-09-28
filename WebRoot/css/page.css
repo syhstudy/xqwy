@@ -1,0 +1,41 @@
+.page_num{
+	border:1px solid #666;
+	text-decoration:none;
+	padding:2px 4px 0px 4px;
+	margin-right:2px;
+	margin-top:-10px;
+}
+a:hover.page_num{
+	background-color:#eee;
+	border: 1px solid #111;
+	text-decoration: none;
+}
+.page_pages{
+	border:1px solid #111;
+	text-decoration:none;
+	padding:2px 4px 0px 4px;
+	margin-right:2px;
+	background-color:#eee;
+}
+.page_total{
+	border:1px solid #111;
+	text-decoration:none;
+	padding:2px 4px 0px 4px;
+	margin-right:2px;
+	background-color:#eee;
+}
+.page_curpage{
+	border:1px solid #111;
+	text-decoration:none;
+	padding:2px 4px 0px 4px;
+	margin-right:2px;
+	background-color:#eee;
+	font-weight:bold;
+}
+.page_input{
+	border:1px solid #666;
+	width:35px;
+}
+#page_bar{
+	font-size:12px;
+}

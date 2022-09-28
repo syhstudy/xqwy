@@ -1,0 +1,46 @@
+/* CSS Document */
+/*-------------------------------------- 全局公共样式---------------------------- ------------*/
+body{ margin:0 auto; padding:0; font-family:"宋体",arial; color:#666; font-size:13px; width:960px;}
+img,li{ vertical-align:top}
+ul,dl{ list-style-type:none;}
+ul,li{ margin:0px; padding:0px;}
+h1,h2,h3,h4,h5,h6,dl,dt,dd{ margin:0; padding:0; border:0;font-weight:normal; font-size:14px;}
+a{ text-decoration:none;color:#666;}
+a:hover{color:#49A8BC}
+.left{ float:left}
+.m_top{ margin-top:8px;}
+.m_left{ margin:0 8px 0 8px;}
+h4{ font-size:14px; font-weight:bold; color:#fff;}
+h3{font-weight:bold; color:#34A2BA; text-align:center}
+h2{font-weight:bold; color:#34A2BA; text-align:center; font-size:16px;}
+.border{border:1px solid #C8E5ED;}
+form{ padding:0px; margin:0px ; border:0px;}
+/*------------------------------------- top---------------------------- ------------*/
+.top{ height:25px; border:1px solid #C8E5ED; background:url(../images/top_bj.jpg) repeat-x; }
+.top_left{ font-size:12px; width:657px;padding:8px 0 0 17px;}
+.top_right{ font-size:12px; padding:6px 0 0 18px; height:19px; width:266px;background:url(../images/top_img.jpg) no-repeat 0 5px;}
+.top_right a{ margin-right:36px; }
+.logo{ height:60px; line-height:60px; }
+.logo_left{ float:left;}
+.logo_right{ float:right; width:728px;}
+.logo_right1{ float:left; width:468px;}
+.logo_right2{ text-align:left; line-height:20px;float:right; font-size:12px; width:250px;}
+.nav{ height:35px; width:958px;border:1px solid #0293AF; margin-top:8px;background-color:#BDDFE6;}
+.nav1{width:941px; height:33px; background:url(../images/nav_bj.jpg) repeat-x;margin:1px;  padding-left:15px;}
+.nav1 li{ width:100px; height:33px; line-height:33px; float:left; background:url(../images/nav_line.jpg) no-repeat right; text-align:center}
+.nav1 li a{ width:100px; height:33px;color:#fff; display:block;}
+.nav1 li a:hover{ background:url(../images/nav_img.jpg) no-repeat center 25px; color:#EEE;}
+.nav1 span li{ background:none}
+.wei{ width:958px; line-height:20px; font-size:12px;}
+.wei span{float:left;}
+.search1_1{ width:250px; height:20px; display:inline; float:right;}
+.search1_1 input{width:180px; height:17px;float:left; line-height:16px; border:1px solid #9DDAE7; color:#999}
+.search1_1 label input{ width:54px; margin-left:8px; height:20px; border:none;}
+.link1{   border:1px solid #C8E5ED}
+.link_title{   height:22px;background:url(../images/right_bj.gif); font-size:14px;padding:7px 0 0 13px; color:#2B98B3}
+.link_centen{ margin:10px; line-height:25px;}
+.link_centen span{ margin:0px 5px; color:#CCC;}
+.foot{ width:958px; text-align:center; line-height:28px; margin:10px 0; float:left;}
+.foot1{ width:958px; margin-top:8px; border:1px solid #C8E5ED; background-color:#F5F5F5; text-align:center; padding:8px 0px 5px 0px; float:left;}
+.page_nav{width:100%; margin-top:8px; margin-bottom:8px; line-height:28px;}
+.page_nav a{border:1px solid #CCC; width:40px; line-height:22px; padding-top:2px; margin-right:2px; display:block; float:left; text-align:center;}

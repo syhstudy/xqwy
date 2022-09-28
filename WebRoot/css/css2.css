@@ -1,0 +1,402 @@
+@charset "gb2312";
+body{
+	margin:0px;
+}
+body,td{
+	font-size:12px;
+	color:#000000;
+}
+h1{color:#CC0000; font-size:24px; margin:0px; padding:0px; line-height:200%;}
+a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+.hui{color:#666666;}
+.hong{color:#FF0000;}
+.black14b {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+a.black14b:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+a.black14b:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+a.black14b:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: underline;
+}
+a.black14b:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: underline;
+}
+
+
+.red14b {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #CC0000;
+	text-decoration: none;
+}
+a.red14b:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #CC0000;
+	text-decoration: none;
+}
+a.red14b:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #CC0000;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.red14b:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #CC0000;
+	text-decoration: underline;
+}
+a.red14b:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #CC0000;
+	text-decoration: underline;
+}
+
+
+
+.white14b {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.white14b:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.white14b:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.white14b:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a.white14b:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+
+.green12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #346E00;
+	text-decoration: none;
+}
+a.green12:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #346E00;
+	text-decoration: none;
+}
+a.green12:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #346E00;
+	text-decoration: none;
+}
+a.green12:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #346E00;
+	text-decoration: underline;
+}
+a.green12:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #346E00;
+	text-decoration: underline;
+}
+
+.red12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #780001;
+	text-decoration: none;
+}
+a.red12:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #780001;
+	text-decoration: none;
+}
+a.red12:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #780001;
+	text-decoration: none;
+}
+a.red12:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #780001;
+	text-decoration: underline;
+}
+a.red12:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #780001;
+	text-decoration: underline;
+}
+
+
+.black12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+a.black12:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+a.black12:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+a.black12:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: underline;
+}
+a.black12:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: underline;
+}
+
+.white12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.white12:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.white12:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.white12:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a.white12:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+.gray {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	text-decoration: none;
+}
+
+
+
+.red12real {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+a.red12real:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+a.red12real:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+a.red12real:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: underline;
+}
+a.red12real:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+
+
+.green12gray {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #05423b;
+	text-decoration: none;
+}
+a.green12gray:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #05423b;
+	text-decoration: none;
+}
+a.green12gray:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #05423b;
+	text-decoration: none;
+}
+a.green12gray:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #05423b;
+	text-decoration: underline;
+}
+a.green12gray:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #05423b;
+	text-decoration: underline;
+}
+
+
+
+.gray14 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height:170%;
+	color: #333333;
+	text-decoration: none;
+	word-break:break-all;
+}
+a.gray14:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333333;
+	text-decoration: none;
+}
+a.gray14:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333333;
+	text-decoration: none;
+}
+a.gray14:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FF0000;
+	text-decoration: underline;
+}
+a.gray14:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333333;
+	text-decoration: underline;
+}
+
+
+.red18b {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #CC0000;
+	text-decoration: none;
+}
+a.red18b:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #CC0000;
+	text-decoration: none;
+}
+a.red18b:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #CC0000;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.red18b:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #CC0000;
+	text-decoration: underline;
+}
+a.red18b:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #CC0000;
+	text-decoration: underline;
+}
